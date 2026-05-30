@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifypave",
+        "uuid": 730548,
+        "checksum": "d1qm1e"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
